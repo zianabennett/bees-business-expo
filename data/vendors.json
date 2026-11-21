@@ -1,0 +1,25 @@
+{
+  "scenario": "Independent BEES portfolio demonstration with fictional vendors",
+  "as_of_day": -6,
+  "event_day": 0,
+  "booth_inventory": ["B01", "B02", "B03", "B04", "B05", "B06", "B07", "B08", "B09", "B10", "B11", "B12", "B13", "B14"],
+  "deadlines": {"setup_information": -10, "confirmation": -8, "power_approval": -7, "booth_assignment": -5, "arrival_window": -2},
+  "vendors": [
+    {"id":"V001","name":"Harbor Prints","category":"Art","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":"B01","arrival_window_confirmed":true},
+    {"id":"V002","name":"Juniper Stitch","category":"Apparel","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":"B02","arrival_window_confirmed":true},
+    {"id":"V003","name":"Copper Grove Pantry","category":"Packaged food","participation":"confirmed","setup_information_received":true,"power_required":true,"power_approved":true,"booth_id":"B03","arrival_window_confirmed":true},
+    {"id":"V004","name":"Lumen Candle Studio","category":"Home goods","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":"B04","arrival_window_confirmed":true},
+    {"id":"V005","name":"Alder and Ink","category":"Stationery","participation":"confirmed","setup_information_received":false,"power_required":false,"power_approved":false,"booth_id":null,"arrival_window_confirmed":false},
+    {"id":"V006","name":"Nova Threadworks","category":"Apparel","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":"B06","arrival_window_confirmed":true},
+    {"id":"V007","name":"Meridian Clay","category":"Ceramics","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":"B06","arrival_window_confirmed":true},
+    {"id":"V008","name":"Crescent Bakes","category":"Packaged food","participation":"confirmed","setup_information_received":true,"power_required":true,"power_approved":false,"booth_id":"B08","arrival_window_confirmed":true},
+    {"id":"V009","name":"Willow Skin Lab","category":"Personal care","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":"B09","arrival_window_confirmed":false},
+    {"id":"V010","name":"Foundry Jewelry","category":"Accessories","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":"B10","arrival_window_confirmed":true},
+    {"id":"V011","name":"Orchard Paper","category":"Art","participation":"confirmed","setup_information_received":true,"power_required":false,"power_approved":false,"booth_id":null,"arrival_window_confirmed":true},
+    {"id":"V012","name":"Saffron Bloom Goods","category":"Home goods","participation":"confirmed","setup_information_received":true,"power_required":true,"power_approved":true,"booth_id":"B12","arrival_window_confirmed":true},
+    {"id":"V013","name":"Kaleido Craft","category":"Art","participation":"invited","setup_information_received":false,"power_required":false,"power_approved":false,"booth_id":null,"arrival_window_confirmed":false},
+    {"id":"V014","name":"North Star Textile","category":"Apparel","participation":"invited","setup_information_received":false,"power_required":false,"power_approved":false,"booth_id":null,"arrival_window_confirmed":false},
+    {"id":"V015","name":"Elm House Goods","category":"Home goods","participation":"invited","setup_information_received":false,"power_required":false,"power_approved":false,"booth_id":null,"arrival_window_confirmed":false},
+    {"id":"V016","name":"Amber Leaf Coffee","category":"Packaged food","participation":"declined","setup_information_received":false,"power_required":false,"power_approved":false,"booth_id":null,"arrival_window_confirmed":false}
+  ]
+}

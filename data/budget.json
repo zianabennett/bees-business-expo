@@ -1,0 +1,19 @@
+{
+  "scenario": "Independent BEES portfolio demonstration with fictional amounts",
+  "currency": "USD",
+  "contingency_cents": 15000,
+  "categories": [
+    {"name":"Venue","planned_cents":40000,"paid_cents":20000,"committed_unpaid_cents":20000,"remaining_estimate_cents":0},
+    {"name":"Equipment","planned_cents":25000,"paid_cents":5000,"committed_unpaid_cents":19000,"remaining_estimate_cents":2000},
+    {"name":"Printing","planned_cents":10000,"paid_cents":8000,"committed_unpaid_cents":0,"remaining_estimate_cents":1000},
+    {"name":"Event supplies","planned_cents":18000,"paid_cents":12000,"committed_unpaid_cents":6000,"remaining_estimate_cents":4000},
+    {"name":"Promotion","planned_cents":7000,"paid_cents":3500,"committed_unpaid_cents":0,"remaining_estimate_cents":1500},
+    {"name":"Volunteer refreshments","planned_cents":10000,"paid_cents":0,"committed_unpaid_cents":7000,"remaining_estimate_cents":5000},
+    {"name":"Signage","planned_cents":5000,"paid_cents":3000,"committed_unpaid_cents":0,"remaining_estimate_cents":1500},
+    {"name":"Accessibility materials","planned_cents":5000,"paid_cents":0,"committed_unpaid_cents":4000,"remaining_estimate_cents":1000}
+  ],
+  "stress_exposures": [
+    {"name":"Additional power support","incremental_cents":8000},
+    {"name":"Additional supplies","incremental_cents":5000}
+  ]
+}
