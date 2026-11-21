@@ -4,6 +4,16 @@ I served in finance leadership for the Black Economic Empowerment Society at the
 
 **Project scope.** This repository is a current independent portfolio exercise informed by that experience. All vendor names, schedules, amounts, and scenario results below are synthetic. The documents and Python implementation were created for this portfolio; they are not original BEES event artifacts or claims about historical event performance.
 
+## My role and the original context
+
+**UVA Black Economic Empowerment Society · Finance leadership and event coordination**
+
+I served on the Finance Committee and as Finance Chair, and helped lead the Black Business Expo. My experience connected financial responsibility with the coordination needed to bring participating businesses into an event. The historical expo involved 30+ vendors; the smaller dataset below was created specifically to make this new operating model easy to inspect.
+
+The work sample focuses on decisions I would want an organizing team to see clearly: which commitments are ready, where capacity is constrained, and what the full spending forecast contains.
+
+[Portfolio overview](https://zianabennett.github.io/#work) · [Experience and leadership](https://zianabennett.github.io/#experience)
+
 ## The problem I chose to model
 
 A list of confirmed vendors does not establish that the event is ready. A vendor can still lack setup information, an approved power arrangement, a usable booth, or an arrival plan. Similarly, a low paid-expense total can conceal commitments and upcoming costs.
