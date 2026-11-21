@@ -1,20 +1,32 @@
-# Black Business Expo operations and finance
+# Black Business Expo Outreach, Operations and Finance
 
-I served in finance leadership for the Black Economic Empowerment Society at the University of Virginia and helped lead its Black Business Expo, an event involving 30+ vendors. That experience is the starting point for this case study: how can an event team turn participation commitments into a workable operating plan while keeping financial exposure visible?
+I served on the Finance Committee and later as Finance Chair of the Black Economic Empowerment Society at the University of Virginia. For its Black Business Expo, I helped recruit Black-owned and student businesses through email, phone calls, in-person conversations and flyers. The event brought together 30+ participating businesses and connected them with the campus community.
 
-**Project scope.** This repository is a current independent portfolio exercise informed by that experience. All vendor names, schedules, amounts, and scenario results below are synthetic. The documents and Python implementation were created for this portfolio; they are not original BEES event artifacts or claims about historical event performance.
+The project begins with a recruitment question: what would make a business interested in taking part, and what follow-up would help it commit? The independent work samples then connect that outreach to event delivery and financial planning.
+
+**Project scope.** Historical role and outreach context are described above. The playbook, message templates and Python implementation were created afterward as independent portfolio samples. Vendor records, schedules, financial amounts and operating-model results are synthetic. The templates are not messages sent during the original event, and the modeled results do not measure its actual recruitment conversion or financial performance.
 
 ## My role and the original context
 
-**UVA Black Economic Empowerment Society · Finance leadership and event coordination**
+**UVA Black Economic Empowerment Society · Finance Leadership, Vendor Outreach and Event Coordination**
 
 I served on the Finance Committee and as Finance Chair, and helped lead the Black Business Expo. My experience connected financial responsibility with the coordination needed to bring participating businesses into an event. The historical expo involved 30+ vendors; the smaller dataset below was created specifically to make this new operating model easy to inspect.
 
-The work sample focuses on decisions I would want an organizing team to see clearly: which commitments are ready, where capacity is constrained, and what the full spending forecast contains.
+The outreach samples show how I would organize prospects, explain the value of participating and follow up on unanswered questions. The operating model then makes readiness and financial exposure visible after a business has committed.
 
 [Portfolio overview](https://zianabennett.github.io/#work) · [Experience and leadership](https://zianabennett.github.io/#experience)
 
-## The problem I chose to model
+## Explore the Outreach Project
+
+| New sample | What it demonstrates |
+|---|---|
+| [Recruitment playbook](docs/outreach-playbook.md) | Audience fit, channel choices, follow-up ownership, signup and the handoff to event coordination |
+| [Outreach templates](docs/outreach-templates.md) | Adaptable email and call language, in-person conversation guidance, flyer copy and common questions |
+| [Visual portfolio case](https://zianabennett.github.io/v2/expo.html) | The original recruitment story alongside the independent planning examples |
+
+The purpose was to help Black-owned and student businesses reach campus buyers and build connections. The historical evidence establishes participation scale and outreach methods; it does not establish channel conversion rates or incremental vendor sales.
+
+## The Operating Problem I Chose to Model
 
 A list of confirmed vendors does not establish that the event is ready. A vendor can still lack setup information, an approved power arrangement, a usable booth, or an arrival plan. Similarly, a low paid-expense total can conceal commitments and upcoming costs.
 
